@@ -1,0 +1,37 @@
+					Java Packages 
+				>>-----------------<<
+	*	packages are nothing more than the we organize files into different directories
+		according to thir functionality, usability as well as category they should belong to
+
+	*	Files in one directory (or packages) would have diffent funtionality from those
+		of another directory.
+
+
+
+									Command
+								>>----------<<
+								>>----------<<
+
+
+							create package Command
+						>>--------------------------<<
+
+							javac -d . HelloWorld.java
+
+
+							Run package class
+						>>----------------------<<
+
+							java world.HelloWorld
+									|		|
+									|		|
+								package    class
+
+
+
+
+									Remember
+								>>-----------<<
+			* we can have only one public class in a single java file.
+			* Name of the file should be same as the name of public class.
+			* In absense of public class, any class name can be given to the file name.

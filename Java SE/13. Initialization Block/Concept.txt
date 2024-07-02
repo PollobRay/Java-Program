@@ -1,0 +1,14 @@
+							Initialization Block
+						>--------------------------<
+
+				* There are two types of initialization block
+
+						# instance initialization block.
+								{
+
+								}
+
+						# static initializaton block.
+								static{
+
+								    	}

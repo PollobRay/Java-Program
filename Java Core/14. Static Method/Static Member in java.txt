@@ -1,0 +1,6 @@
+		Static Member in Java
+	  >>-----------------------------<<
+
+static veriable & Method is member of class.
+It veriable & Method that access direct and Call Direct without createing Object
+

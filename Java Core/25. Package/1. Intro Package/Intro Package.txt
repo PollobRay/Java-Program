@@ -1,0 +1,30 @@
+	Type of Package :-
+	-----------------
+	1)	Built in package
+	2)	user-Defined
+				a)	Unique Name
+				b)	lowercase
+
+
+
+				 java
+				/ | \
+			  /   |   \
+			 awt io   sql
+
+			 java.awt.color
+
+
+
+
+			 java    <------------ java package
+	---------------------
+	|		awt		<---|--------- sub package
+	|	-------------	|
+	|	|	color <-|---|--------- classes
+	|	|			|	|
+	|	|  graphics	|	|
+	|	-------------	|
+	|					|
+	---------------------
+

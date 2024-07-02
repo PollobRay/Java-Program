@@ -1,0 +1,27 @@
+Structure of Java :
+
+1. Documentation Section (Optional)
+	<<---- Comment ---->>
+	i)	//text
+	ii) 	/* text */
+	iii)	/** text */
+2. Package Section (Optional)
+
+	Package statement
+
+3. Import Statement (Optional)
+
+	import test.student;
+	import test.*;
+
+4. Interface statement (Optional)
+
+	(For multiple Inheritance )
+
+5. Class Definition
+
+6. main class definition 
+	{
+
+		main method definition
+	}

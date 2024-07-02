@@ -1,0 +1,7 @@
+							
+								Comments in Java
+								----------------
+
+		1. Single line 					//comment
+		2. Multiline					/*   comment    */
+		3. Documentation style			/**  comment    */

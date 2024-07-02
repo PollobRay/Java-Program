@@ -1,0 +1,11 @@
+	
+							Vector vs ArrayList
+						>>-----------------------<<
+		1. Vector capacity Increce 100%
+			ArrayList capacity Increce 50%
+		
+		2. Vector is Thread Safe
+			ArrayList is Not Thread Safe
+		
+		3. Vactor is Slow
+			ArrayList is First

@@ -1,0 +1,17 @@
+				Concepts of insert() & append()
+			>>-----------------------------------<<
+	insert() :-
+	---------
+		Add String at Spesefic position.
+
+		syntax:
+			StringBuffer (int index, String str);
+
+
+
+	append() :-
+	---------
+		Add String at last of String.
+
+		syntax :-
+			StringBuffer append(String str);

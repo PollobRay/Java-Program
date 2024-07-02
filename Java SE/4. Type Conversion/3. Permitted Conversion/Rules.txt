@@ -1,0 +1,7 @@
+							Permitted conversion
+						>>-----------------------<<
+		i)		byte    to    short, int, long, float or double
+		ii)		short   to    int, long, float or double
+		iii)	char    to    int, long, float or double
+		iv)		int		to	  long, float, or double
+		v)		float	to 	  double	

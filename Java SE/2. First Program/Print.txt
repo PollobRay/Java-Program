@@ -1,0 +1,15 @@
+
+							System.out.println("Hello world")
+							   |	|	  |
+							  /     |      \
+							 /      |       \
+			Pre-define class
+
+			System : pre-define class
+			out	   : Static refrence variable and it refere a object.
+					 ( It's like a pointer where store address of object )
+
+					 Here out create Print Stream class object & called println method.
+
+
+					 when we write '.' at last of any class, then definatly we access any static member of the class.

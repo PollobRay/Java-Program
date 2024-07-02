@@ -1,0 +1,12 @@
+		
+		When implement Runnable Interface, then the Thread Behaive as a Method.
+		For this resseon Need to Create Thread Class Method.
+
+		Test obj1 = new Test(); // here Test Class Implement Runnable interface
+		Thread obj2 = new Thread(obj1); // here Create Thread Class Object
+										// and here pass implement class object as a parameter
+
+		for(int i=0;i<5;i++)
+		{
+			System.out.println("Main Thread"); //Here it's main Thread. we need to create a thread.
+		}

@@ -1,0 +1,12 @@
+			Main function :
+		    >>>----------------<<<
+   
+
+	Public static void main(String arg[])
+
+1. public :	Access specifier
+2. static :	Static member function (For call main class without object0
+3. void   :	Return type ( Non-return )
+4. main   :	function name
+5. String :	class 
+6. arg[]  :	array verable (It's Array veriable of String class type) -[ arg it name is changeable ]

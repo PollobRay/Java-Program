@@ -1,0 +1,21 @@
+						Tools of Java
+					>>----------------<<
+
+	JDK :
+	----
+		* Java Development Kit (JDK) contains tools needed to develop the java Programs
+		* These tools could be compiler ( javac.exe )
+		  Application Launcher   ( java.exe )   etc.
+
+
+	JRE :
+	-----
+		* Java Runtime Environment
+		* It contains JVM and Java Package classes ( java library )
+
+	JVM :
+	-----
+		* Java Virtual Machine
+		* JVM is Platform Dependent
+		* The JVM interprets the byte code into the machine code depending upon the underlying
+		  operating system and hardware combination.

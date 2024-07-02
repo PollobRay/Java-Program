@@ -1,0 +1,17 @@
+				concepts
+				--------
+		delete() :-
+		----------
+			It's delete to creating String Buffer object.
+
+			syntax :
+				StringBuffer delete(int StartIndex, int EndIndex);
+
+
+
+		deleteCharAt() :-
+		---------------
+			It's Delete specefic chacacter from String.
+
+			syntax :-
+				StringBuffer deleteCharAt(int index);  

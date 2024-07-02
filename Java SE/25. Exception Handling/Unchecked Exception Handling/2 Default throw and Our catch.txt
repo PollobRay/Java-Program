@@ -1,0 +1,18 @@
+Default throw and Our catch: 
+
+try
+{
+	<code>
+
+}
+
+catch(<exception type> <parameter>)   // we want to make more than catch block
+{
+	<statement>
+}
+
+finally           // finally is be one try for one finally block
+{
+		// this block will be run , If compile Exception & no Exception
+	<finally block statement>
+}

@@ -1,0 +1,9 @@
+				
+						Object Serialization
+					>------------------------------------<
+			Seriazation store Object in a File
+	
+		
+		How to Use:
+	----------------------
+	when we want to store any object , then we have to implement Serializable interface in class of this Object

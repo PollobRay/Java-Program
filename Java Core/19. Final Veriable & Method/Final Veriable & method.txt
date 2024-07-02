@@ -1,0 +1,7 @@
+			Final Veriable & Method
+		>>>---------------------------------<<<
+
+Final is use to make constant.
+Final class isn't Inherit.
+
+final is a keyword to make final veriable & Method.

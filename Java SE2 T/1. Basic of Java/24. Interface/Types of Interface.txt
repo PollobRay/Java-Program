@@ -1,0 +1,12 @@
+			
+					Types of Interface
+				>-----------------------<
+			i) 	Marker Interface  :- without any method & field
+			ii) SAM(Single Abstract Method) / Functional Interface 	in 1.8
+			iii) Normal Interface.
+			
+			
+			
+	We have two ways to call Interface Method :
+		1. Invention.  // Implement
+		2. Discovery. // anonymous class

@@ -1,0 +1,31 @@
+
+								class
+							>>---------<<
+
+				class is user defined Data type
+
+		* class is description of an object's property and behaviour.
+		* creating class is as good as creationg Data Type.
+		* class is defining a category of Data.
+
+
+								Object
+							>>---------<<
+
+		* object is a real word entity.
+		* object is an instance of a class.
+		* object consumes memory to hold property values.
+
+
+
+
+
+					Test obj = new Test();    //Dynamically creates objects
+						|			|
+					   /			 \
+			here, obj of 			here, we create
+			class Test				Object.
+			type Refernce			In Java
+			varible.				we create object
+			It's Refernce			dynamically.
+			consumes object.

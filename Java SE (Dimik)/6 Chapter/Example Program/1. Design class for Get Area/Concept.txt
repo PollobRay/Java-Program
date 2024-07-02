@@ -1,0 +1,5 @@
+design a class hrere have some overloaded method & and get area of under those things,
+1. Circle
+2. Triangle
+3. Rectangular
+4. Cilinder

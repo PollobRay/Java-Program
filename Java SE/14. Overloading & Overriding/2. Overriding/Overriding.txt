@@ -1,0 +1,6 @@
+		
+								Overriding
+							>>-------------<<
+
+		method overriding is defining a method in subclass with the same signature with
+		specific implementation in respect to the subclass.

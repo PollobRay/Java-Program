@@ -1,0 +1,9 @@
+							Static Function
+						>>------------------<<
+
+			* Static function defined inside the class are qualified with the keyword static.
+			* Static function can only access static members of the same class.
+			* Static function can be invoked using class name and dot '.' operator.
+
+			* You can overload static method.
+			* But you can not override a static method.

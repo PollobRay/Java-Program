@@ -1,0 +1,4 @@
+Steps :-
+(1)	Declaring the Class
+(2)	implementing run() method
+(3)	Start THread

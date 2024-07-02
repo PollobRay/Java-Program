@@ -1,0 +1,20 @@
+
+							import
+						>>----------<<
+
+			* import is a keyword in java.
+			* It is used to import classes of ther packages.
+
+
+
+
+						Cmd
+					>.-----.<
+
+				Student.java
+						javac -d . student.java
+
+
+				Example.java
+						javac -d . Example.java
+						java pack1.Example

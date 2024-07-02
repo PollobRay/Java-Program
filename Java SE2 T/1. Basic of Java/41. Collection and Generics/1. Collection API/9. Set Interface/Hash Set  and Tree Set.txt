@@ -1,0 +1,9 @@
+			
+			
+			HashSet:-
+			--------
+				HashSet not Follow the Sequence.
+				
+			TreeSet:-
+			--------
+				TreeSet is store Data by sorted in Assending order.

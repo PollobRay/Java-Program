@@ -1,0 +1,41 @@
+		Print Value
+	>>-----------------------<<
+  
+1.	System.out.println("text");  It's print text at New Line
+
+2.	system.out.print("text");  It's print text at Same Line
+
+
+
+  System :	class (It's have at java.lang Package)
+
+  out    :	object (It's object of system class)
+                public static final print stream out;
+
+  println() :	method (It's method of a out object)
+
+
+
+		
+
+
+			___________
+			[ Systeam ]
+			-----------
+			     |
+			     ~
+			___________
+			[   out   ]
+			-----------
+			     |
+		print static final print stream out;
+			     ~
+			___________
+			[Println()]
+			-----------
+
+
+Same as:
+
+	System.out;
+	out.println();

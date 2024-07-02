@@ -1,0 +1,6 @@
+							Static Variable
+						>>-------------------<<
+
+		* static variable are declared in the class using static keyword.
+		* static variable are by default initialized to it's default value. // 0
+		* static variable has a single copy for the whole class and does not depend on the objects.

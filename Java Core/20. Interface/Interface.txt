@@ -1,0 +1,73 @@
+							Interface
+						>>-------------<<
+
+Interface is like a class.
+Where all methods are Abstract and field/veriable are constant.
+
+
+we cann't make object of Interface.
+for this reson we cann't to call any method in main class.
+for this  a class should Implement to Interface.
+
+
+It use to Inherite becuse java is not suppoted multipole inheritance
+
+
+Declare Veriable:
+-----------------
+public static final type name=value;
+public static final int a=10;
+
+If declare, int a=20;   here it defualt is it public static final.
+
+
+
+Declare Method:
+---------------
+public return_type method_name(parameter_list)
+public int add(int x,int y)
+
+
+
+For Inherite:
+--------------								-------------
+class B implements ABC						|	 ABC	| interface
+{											-------------
+	
+												|		implement
+}												~
+											-------------
+											|	B    	| class
+											-------------
+A One class can implement many interface. 
+						
+						_____________				_____________
+						|			|				|			|
+						|	class	|				| interface	|
+						-------------				-------------
+								|						|
+								|						|
+								---------		---------
+										|		|
+									_________________
+									|				|
+									|	  class		|
+									-----------------
+class class_name extends superclass implement interface_name
+{
+	
+}
+
+Extending Interface :
+---------------------
+interface name1 extends name2, name3
+{
+	body;
+}
+
+Class Implement Interface:
+--------------------------
+class class_name implement interface_name
+{
+	
+}

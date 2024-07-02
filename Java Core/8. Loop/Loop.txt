@@ -1,0 +1,15 @@
+		Loop
+
+1.	For
+		for(initilization; condition; increment/decrement)
+2.	While
+		while(condition)
+		{
+		increment/decrement;
+		}
+3.	Do.. While
+		do
+		{
+		inrement/decrement;
+		}
+		while(condition);

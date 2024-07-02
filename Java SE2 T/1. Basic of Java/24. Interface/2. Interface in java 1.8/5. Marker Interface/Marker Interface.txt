@@ -1,0 +1,5 @@
+
+				Marker Interface
+			>----------------------<
+	which Interface hase no declaration of method and class. It called marker Interface.
+	*we used it to make permission.

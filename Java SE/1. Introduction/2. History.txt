@@ -1,0 +1,13 @@
+									
+									History of Java
+								>>------------------<<
+		Then one day, after several hours of brainstorming, they got an inspiration
+		when they took a trip to a local coffee shop with Gosling.
+		Finally, the name Java came from Several individuals who were there, and
+		were invoved in the project-
+				James Gosling, Arthur, Van Hoff & Andy Bechtolsheim -yes that's 
+				-	  -		   -	   -
+				JAVA came from.
+
+		later, the logo of Java was designed to depict "coffee", as it is till now.
+		another thing is that coffee was first named 'java' in Java Island.

@@ -1,0 +1,39 @@
+
+					Declaration of Array
+				>>-----------------------<<
+
+	Form 1:		type array_name[];
+				int roll[];		// Here not use size 
+								// same becouse not use size of array in java
+
+	Form 2:		type[] array_name;
+				int[] roll;
+
+
+					Creation of Array
+				>>---------------------<<
+
+			array_name=new type [size];
+			roll=new int[5];	// create memory location
+
+
+					Declare & Creation
+				>>----------------------<<
+
+			type Array_name[]=new type[size];
+				int roll=new int[5];
+
+
+					Initilization Array
+				>>-----------------------<<
+
+			array_name[subcript]=value;
+				int roll[]={10,20,30,40,50};
+				// same
+
+
+
+
+					length of Arrray
+				>>--------------------<<
+				int s= roll.length;

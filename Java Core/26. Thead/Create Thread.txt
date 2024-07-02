@@ -1,0 +1,50 @@
+						Create Thread
+					>>-----------------<<
+
+			class							interface
+		____________					________________
+		|			|					|				|
+		|	object	|					|	Runnable	|
+		-------------					-----------------
+			  |									|
+			  |									|
+			  --------------|		|------------
+			  				|		|
+						_________________
+						|				|
+						|	Thread		|
+						-----------------
+Create Thread:
+
+	1) By Extending Thread class :
+		--------------------------
+		java.lang.Thread;
+
+		ex:
+		---
+		class myclass extends Thread
+		{
+			public void run()
+			{
+				statement;
+
+				here, wrote statement Do behaive as a Thread
+			}
+		}
+
+
+
+
+	2) 	By implement Runnable interface :
+		---------------------------------
+
+		class myclass implements Runnable
+		{
+			public void run()
+			{
+				Statement;
+			}
+		}
+
+
+		

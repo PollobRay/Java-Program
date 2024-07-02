@@ -1,0 +1,5 @@
+
+								Lambda Expression
+							>>---------------------<<
+		Lambda Expression only work on functional Interface.
+		When, we implement Functional Interface with Lambda Expression then JVM not create   '.class' File of it.

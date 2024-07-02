@@ -1,0 +1,3 @@
+You set java class name when there have two different word ,then we write class name capital latter  Its Called CamelCase.
+
+		class HelloWorld

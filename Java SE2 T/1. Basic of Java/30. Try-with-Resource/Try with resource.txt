@@ -1,0 +1,12 @@
+					
+											Try with Resource
+										>------------------------<
+					
+					try(BufferReader br=new BufferReader(new InputStreamReader(System.in)))
+					{
+					
+					}
+					
+					when ew create Resource in Try block in try, we Don't have to make Catch, finnaly and we don't have to close any resource
+					
+					// when end the try block then the resource will close automitically, be Eception or not

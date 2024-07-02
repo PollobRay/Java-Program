@@ -1,0 +1,3 @@
+
+		StringBuffer is threadsafe.
+		StringBuilder is not threadsafe.

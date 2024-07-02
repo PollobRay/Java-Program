@@ -1,0 +1,48 @@
+								Introduction to Java
+							>>-----------------------<<
+
+		Java originated at Sun-Microsystem.Inc in 1991.
+
+		On January 27, 2010 Sun was acquired by Oracale Corporation for US$7.4 Bilion.
+
+
+							Java is Everywhere
+						>>---------------------<<
+		* Java resides in mobiles, client machine, server machine, embedded devices, smart phones, cloud etc.
+		* it shares the same basic features of the language and libraries.
+
+							Principle of Java
+						>>--------------------<<
+					Write once, Run Anywhere (WORA)
+
+
+
+							What is library
+						>>-------------------<<
+		* Java Libary is a Collection of Predefined Classes.
+		* You can use these classes either by inheriting them or instantiating them.
+
+
+							Java Flavours
+						>>-----------------<<
+					* Java SE (Core java)
+					* Java EE (Advance Java)
+					* Java ME (Micro Edition of mobile)
+					* Android Java
+					* Many More.
+
+
+			Now Java leatest version is 10.
+
+
+							Features of Java
+						>>--------------------<<
+						* Simple
+						* Object Oriented Language
+						* Distributed
+						* Interpreted
+						* Rebust
+						* Secure
+						* Portable
+						* Multi-threaded
+						* Garbage Collection

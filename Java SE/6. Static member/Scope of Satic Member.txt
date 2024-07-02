@@ -1,0 +1,7 @@
+							Scope of satic Member
+						>>------------------------<<
+			* Static member Variable.
+			* Static member Function.
+
+			* Not create static variable in method.
+			* but we can have create static Inner Class.

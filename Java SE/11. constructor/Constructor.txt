@@ -1,0 +1,18 @@
+							
+							Constructor
+						>>--------------<<
+		* Constructor is a member function of a class.
+		* The name of constructor is same as the name of the class.
+		* Constructor has no return type.
+
+
+
+							Constructor is special
+						>>--------------------------<<
+		* A constructor is a special method that is used to initialize a newly created
+			object and is called implicitly, just after the memory is allocated for the object.
+
+		* It is not mandatory for the coder to write constructor for the class.
+
+		* When there is no constructor defined in the class by programer, compiler implicitly 
+			provide a default constructor for the class.

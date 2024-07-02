@@ -1,0 +1,12 @@
+								 
+								 CMD
+								-----
+						Compile :
+						----------
+								with 3 files in one command.
+
+									javac *.java
+
+						Run :
+						-------
+								java Example

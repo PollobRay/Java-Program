@@ -1,0 +1,10 @@
+
+										static initilization block
+									>--------------------------------<
+
+			*	a static initilizer declare in a class is executed when the class is initialized.
+			*	static initializer may be used to initialize the class variables of class.
+			*	return keyword can not used in static initilization block.
+			*	this or super keyword can not be used in static block.
+			* 	static I B can be used static member variable but not used to instance variable.
+			*	static I B will be run one time when we created object.

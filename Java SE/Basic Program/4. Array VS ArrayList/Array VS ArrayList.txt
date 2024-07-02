@@ -1,0 +1,7 @@
+
+					Array			vs			ArrayList
+				-------------				---------------
+			1. Not Resizable					Resizable
+			2. for, foreach						foreach, iterator
+			3. Fast								slow
+			4. array.length						array.size()

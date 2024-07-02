@@ -1,0 +1,38 @@
+							Applet in Java
+						>>-----------------<<
+			Normal program run with main() method.
+			But, Applet not Run with main() method.
+
+
+
+			import Applet Class :-
+			---------------------
+				import java.applet.*;
+				import java.applet.Applet;
+				import java.awt.Graphics;
+
+			Methods :-
+			---------
+				init(); // in Applet class 							------------|
+				start(); // in Applet class 									|
+				paint();	// It's under in Component class 					|--- life cycle of Applet.
+				stop();		// in applet Class 									|    It's call Automatically.
+				destroy();	//in Applet Class 						------------|
+				
+
+
+
+								run Applet
+							>>---------------<<
+		i)AppletViewer :-
+		 --------------
+		 		cmd: appletviewer Test.java
+		 	Here, We need to add this comment at under the import statement
+		 			//<APPLET CODE=Test HEIGHT=400 WIDTH=400></APPLET>
+
+		ii)Web Browser :-
+			-----------
+			We make to a html page and add the tag on html page
+						<applet code="Text" height=400 width=400></applet>
+
+			Note : We should to add java plagin on web browser

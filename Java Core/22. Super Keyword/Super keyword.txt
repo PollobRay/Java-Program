@@ -1,0 +1,31 @@
+					Super Keyword
+				>>-----------------<<
+
+	A) Accessing Superclass Members
+	B) Calling Superclass Constructor
+
+
+				Accessing Superclass Member
+			>>-------------------------------<<
+
+		veriable, method
+		when class A & B have a veriable & B Inherite A Then
+
+		Access A veriable :
+			super.veriable;
+			super.a;
+
+			  ex:
+			------
+			class A
+			{
+			int no;
+			}
+
+			class B extends A
+			{
+			int no;// it's subclass veriable
+			no=100;/ subclass veriable
+
+			super.no=200; //it's superclass veriable
+			}

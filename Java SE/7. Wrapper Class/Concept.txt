@@ -1,0 +1,56 @@
+									Wrapper class
+								>>----------------<<
+		java is 99% OOP:
+		----------------
+			* java is an object oriented language and as said everything in java is an object.
+			* They are short of left out in the world of objects, that is they cannot prticipate in the object 
+				activities.
+
+
+
+		Wrapper Class :
+		--------------
+			* As a solution tio this problem, java allows you to include the primitives
+				in the family of objects by using what are called wrapper classes.
+			* There is a wrapper classs of every primitive data type in java.
+			* This class encapsulated a single class for int is Integer, for float is Float, ana so on.
+
+
+
+				Primitive type	------------->	Wrapper class
+				--------------					-------------
+					boolean			------>			Boolean
+					byte			------>			Byte
+					char			------>			Character
+					short			------>			Short
+					int 			------>			Integer
+					long			------>			Long
+					float 			------>			Float
+					double			------>			Double
+
+
+
+		Use methods of Wrapper class :
+		-----------------------------
+
+		* valueOf() :-
+		 -----------
+		 		* static method.
+		 		* Return object reference of relative Wrapper class.
+
+
+		 * parseXxx() :-
+		  -------------
+		  		* static method.
+		  		* Xxx can be replaced by any primitive type.
+		  		* It returns xxx type value.
+
+		  		ex: Integer i=new Integer();
+		  			i.parseInt(100);
+
+
+		 * xxxValue() :-
+		  -------------
+		  		* Instance method of Wrapper class.
+		  		* xxx can be replaced by any primitive type.
+		  		* Returns corresponding primitive type.

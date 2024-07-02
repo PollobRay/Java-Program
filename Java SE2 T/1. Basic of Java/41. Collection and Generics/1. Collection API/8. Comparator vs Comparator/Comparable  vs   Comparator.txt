@@ -1,0 +1,20 @@
+			
+			
+									Comparbale  vs  Comparator
+								>>------------------------------<<
+		
+		Comparator:-
+		----------
+			1. When your class not implementing Comparable
+			
+			2. When you change the logic.
+			
+			3. method   compare(T o1,To2).
+			
+		Comparable:-
+		-----------
+			1. If you want to have Your logic.
+			
+			2. when use comparable, your should implements Comparable interface
+			
+			3. method    compareTo(T o1).

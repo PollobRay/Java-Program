@@ -1,0 +1,17 @@
+					
+							Instance Initilization Block
+						>----------------------------------<
+
+		*	when we create object then run instance initilization block.
+		*	if we create one of more than block, it will run sequnce.
+		*	compiler will be initialization block code write at first
+				at constructor block.
+				& run first initilization block, then constructor.
+		* we can be create many object, how many object how will run the code.
+
+
+		* An instance initilization or initilizer declared in a class is
+			executed when an instance of the class is created.
+		* Retrun keyword can not be used in initilization block.
+		* Instance initializers are permitted to refer to current
+			object via the keyword this and to use the keyword super.

@@ -1,0 +1,22 @@
+Features of java :
+
+1. simple & secure
+2. portable
+3. compiled & interpeted
+4. distributed (java.net)
+5. multi-threaded (java.lang)
+6. object oriented
+7. platform independent & protable
+8. dynamic
+9. rebust & secure
+
+
+Basic concepts of Java:
+
+1.class
+2. object
+3. inheritance
+4. dynamic
+5. message communication
+6.encapsulation
+7. abstraction

@@ -1,0 +1,12 @@
+I/P:-
+Enter your account no:
+enter your password:
+Login successfully.
+
+Main Menu
+1 : Check Balance
+2 : Withdraw
+3 : Deposit
+4 : Exit
+
+Enter Your Choice:

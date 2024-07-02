@@ -1,0 +1,6 @@
+
+Access Modifier in Class:-
+			public, final, abstarct, default
+
+Access Modifier in Inner Class:-
+			public,static,private, .....

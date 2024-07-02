@@ -1,0 +1,36 @@
+
+									Access Modifier
+								>>------------------<<
+		* java support four categories of accessibility rules
+				# private
+				# protected
+				# public
+				# default
+
+		* modifier can be used for class, member variables and member functions.
+
+
+
+
+									With Classes
+								>>----------------<<
+
+		* outer class and inner class.
+		* For outer class, there can be only two possibilites, either class is a
+			public class or just a class which means it is of default type.
+
+		* For inner class any among four access modifiers can be used.
+
+
+								
+
+									Member variable and Function
+								>>-------------------------------<<
+		* when member of the class are private, they can not accessed from outside the class body.
+			They are meant to be accessed from the same class in which they are declared.
+
+		* When members are protected, they can be accessed from any class of the same package and child class from other package.
+
+		* When members are public, they are accessible from any class of any package.
+
+		* When members are default, they are accessible only from the class of same package.

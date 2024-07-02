@@ -1,0 +1,2 @@
+Write a program for Bank Acunt simulate .
+there have many Accunt No, Name, Address, Balance write a file & print from file.

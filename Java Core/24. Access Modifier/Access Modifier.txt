@@ -1,0 +1,55 @@
+		Use in Access Modifier	:
+	----------------------------
+	A) At the top level
+			class level
+				i) Defualt	ii) Public
+
+	B) At the member level	:
+			member level
+
+
+
+
+
+
+			A)	Roles of top level Access Modifier
+			----------------------------------------------
+				i)	one public class will in one program.
+				ii)	save file by public class name.
+
+
+			B)				Member level
+						-------------------
+					  ( variable & methods )
+				1)	public --->		use all modiule.
+				2)	protected --->	use same class, same package
+										( Inheritance )
+				3)	Private	--->	use just same class
+				4)	Defualt --->	use all classes in same package
+				5)	private protected
+
+
+
+
+
+
+-----------------------------------------------------------------------------
+|	Access		||			|			| friendly	|  private	|			|
+|	Modifier	||	public	| protected	|( Default )| protected |  private	|
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+|	same		||			|			|			|			|			|
+|	class		||	yes		|	yes		|	yes		|	yes		|	yes		|
+-----------------------------------------------------------------------------
+| sub class in	||			|			|			|			|			|
+| same package	||	yes		|	yes		|	yes		|	yes		|	no		|
+-----------------------------------------------------------------------------
+| other class   ||			|			|			|			|			|
+|in same package||	yes		|	yes		|	yes		|	no		|	no		|
+-----------------------------------------------------------------------------
+|subclass in	||			|			|			|			|			|
+|other packages	||	yes		|	yes		|	no		|	yes		|	no		|
+-----------------------------------------------------------------------------
+|non-subclass in||			|			|			|			|			|
+|other package	||	yes		|	no		|	no		|	no		|	no		|
+-----------------------------------------------------------------------------

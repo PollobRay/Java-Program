@@ -1,0 +1,16 @@
+				
+				Different ways of Instantiating / Creating Object
+			>>-----------------------------------------------------<<
+			
+		1. Test t=new Test();
+		
+		2. Clone
+		
+		3. De-Serialization
+		
+		4. Dependancy injection   -Spring
+		
+		5. Using Class class,
+		
+				Class c=Class.forName("Test");
+				Test t=(Test) c.newInstance();

@@ -1,0 +1,5 @@
+Developer	: James Gosing
+Year		: 1991
+Corparation	: Summicrosystem 
+First version	: 1.0 (1995)
+First Name	: OAK

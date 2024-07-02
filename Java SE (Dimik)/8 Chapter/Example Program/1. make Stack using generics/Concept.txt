@@ -1,0 +1,8 @@
+Make Stack using Generics.
+
+	public class GenericStack<T>
+	{
+		public void push(T t) {}
+		public void peek() { }
+		public void pop() { }
+	}

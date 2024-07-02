@@ -1,0 +1,23 @@
+									
+									Compile & Run
+								>>----------------<<
+		* 	How to Compile	?
+		
+				Hello.java					Hello.class
+				__________					___________
+			    |		 |	  (Compile)		|		   | (Byte code)
+			    |		 |	----------->	|          |
+			    ----------		javac		------------
+
+		* How to Run  ?
+
+				Hello.class  			JVM						OS
+				__________ 				/ \						^
+				|		 |			  /     \				  /   \
+				|		 |	java	/    /\   \				 /     \
+				|		 |	----->	\	 \/<| /    --------> \     /
+				|		 |	     	  \     |/                \   /   Output
+				----------				\ / |					~
+											|
+										Interpreter
+									( Just in time Compiler )

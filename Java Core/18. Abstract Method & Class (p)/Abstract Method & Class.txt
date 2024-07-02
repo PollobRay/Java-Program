@@ -1,0 +1,18 @@
+			Abstract Class
+		>>>-----------------------<<<
+
+Abstract class is a one class that can't class with object.
+Abstract class is class , here have a one Abstruct Method.
+
+	Abstract Class Declare:
+			abstract class class_name
+
+
+
+			Abstract Method
+		>>>--------------------------<<<
+
+Abstract Method is one Method , that Declare but not Define.
+	
+	Abstract Method Declare:
+			abstract void method_name()

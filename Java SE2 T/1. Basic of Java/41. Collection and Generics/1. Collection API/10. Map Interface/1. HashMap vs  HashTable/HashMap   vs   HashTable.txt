@@ -1,0 +1,16 @@
+		
+		
+										HashMap  vs  HashTable
+									>>---------------------------<<
+	
+			HashMap										HashTable
+			----------								----------------
+	Introduced in 1.2 version				There since java was introduced.
+	
+	It is not thread safe					It is thread safe.
+	
+	It is first								It is slow.
+	
+	Works with single thread				Works with multipole thread.
+	
+	Allow one null key						Not allow null key.

@@ -1,0 +1,13 @@
+		dicision Making and Branching
+
+	1. IF Statement
+			i) Simple IF
+			ii) IF...ELSE
+			iii) ELSE...IF Ladder
+			iv) Nested IF..ELSE
+
+	2. SWITCH Statement
+
+	3. Conditional operator
+		int a=2, b=3,c;
+		c=(a>b)?a:b;

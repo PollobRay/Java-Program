@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="10.0.1" class="java.beans.XMLDecoder">
+ <object class="College">
+  <void property="student">
+   <object class="java.util.ArrayList">
+    <void method="add">
+     <object class="Student">
+      <void property="name">
+       <string>Pollob</string>
+      </void>
+      <void property="roll">
+       <int>101</int>
+      </void>
+     </object>
+    </void>
+    <void method="add">
+     <object class="Student">
+      <void property="name">
+       <string>Roy</string>
+      </void>
+      <void property="roll">
+       <int>102</int>
+      </void>
+     </object>
+    </void>
+   </object>
+  </void>
+ </object>
+</java>

@@ -1,0 +1,28 @@
+			concept of CharAt() & SetCharAt()
+		>>-------------------------------------<<
+
+	CharAt() :-
+	---------
+		It's use to Getting character from String.
+
+		Syntax :-
+			char CharAt(int index);
+
+		Ex :-							 //  0 1 2 3
+			StringBuffer str=new StringBuffer("Java");
+
+			char a=str.CharAt(1); // a
+
+	
+
+
+
+	SetCharAt() :-
+	------------
+		It's use to modify String.
+
+		Syntax :-
+			void SetCharAt(int index, char ch);
+
+			Ex :-
+				SetCharAt(1,'A'); // JAva

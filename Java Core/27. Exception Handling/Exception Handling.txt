@@ -1,0 +1,6 @@
+	Exception Handling in java
+	---------------------------
+(1)	Hit the Exception ------------>> try block
+(2)	Throw the Exception------|
+(3)	Catch the Exception	---------->> catch block
+(4)	Handle the Exception ----|

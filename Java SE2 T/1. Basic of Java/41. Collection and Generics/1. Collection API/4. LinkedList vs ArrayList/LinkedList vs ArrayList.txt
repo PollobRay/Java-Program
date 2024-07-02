@@ -1,0 +1,11 @@
+
+										LinkedList vs ArrayList
+									>>.-------------------------.<<
+		1. ArrayList is implementation of Dynamic Array.
+			LinkedList is implementation of Double LinkedList.
+			
+		2. ArrayList is slow
+			LinkedList is First
+			
+		3. ArrayList is easy to search
+			LinkedList is deficult to dearch

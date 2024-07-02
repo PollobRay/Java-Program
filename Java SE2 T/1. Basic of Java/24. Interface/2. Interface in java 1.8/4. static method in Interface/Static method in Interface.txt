@@ -1,0 +1,7 @@
+				
+					
+					Static method in Interface
+				>>------------------------------<
+	In Java 8 can have 'static' method in Interface.
+	
+	

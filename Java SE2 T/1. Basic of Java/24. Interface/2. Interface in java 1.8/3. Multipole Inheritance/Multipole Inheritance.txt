@@ -1,0 +1,39 @@
+				
+			Multipole Inheritance in Java 1.8
+		>------------------------------------------<
+			
+Two Interface:-
+--------------
+			
+					I 					J
+	  default show()|   				| default show()
+					|					|
+					|	implements		|
+					---------|-----------
+							 |
+							 C
+		When make the problem, 
+		we have override the method 'show()' in class 'C'
+		
+	
+	
+Interface and Class:-
+-------------------
+
+					
+					I								B
+	default show()	| 								|	show()
+					|								|
+					|								|
+					| implements		extends		|
+					-----------------|----------------
+									 |
+									 C 
+			new C().show();
+			
+	When make this problem,
+	It will call show() method of class 'B'.
+	
+	* Because Normal method hase more priority
+		than 'default' show() method . 
+		*It called <<<<< Third Rule of Java>>>>

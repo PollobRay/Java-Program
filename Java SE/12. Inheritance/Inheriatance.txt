@@ -1,0 +1,22 @@
+
+
+
+
+								Remember
+							>.----------.<
+		* In the java progaramming language, each class is allowed to have one
+			direct superclass, and each superclass has the potential for an unlimited
+			number of subclass.
+
+		* private members of the superclass are not accesible by the superclass 
+			and can only be indirectly accessed.
+
+		* members that have defualt accessibiliy in the superclass are also not accessible by subclasses
+			in other package.
+
+
+
+			Remember :
+			----------
+						If parent class Methods not overriding/ hiding
+						at child class, it means those methods has inherite.

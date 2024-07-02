@@ -1,0 +1,19 @@
+						Class vs Interface
+					>>----------------------<<
+
+		Class 					|			Interface
+	------------------------------------------------------
+								|
+			Field				|		Constant
+								|					|
+			Method				|		Abstact
+								|
+			Object				|		xxxxxx
+								|
+		Access Specifier :		|	Access Specifier:
+	Public, Private, Protected	|			public
+								|
+		Inheritance	:			|		Inheritance :
+			extends				|			implements
+								|
+								|

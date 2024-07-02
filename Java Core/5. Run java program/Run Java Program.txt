@@ -1,0 +1,12 @@
+1.	Set Path
+2.	Program
+3.	Save  ----> Class_name.java     (Test.java)
+
+	Class Test
+	{
+		public static void main(String ar[])
+		{
+		}
+	}
+4.	javac Test.java
+5.	java Test

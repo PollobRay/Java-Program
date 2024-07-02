@@ -1,0 +1,25 @@
+			Creating Package Inside Another Package
+		>>--------------------------------------------<<
+	Create :-
+	-------
+	package pack1.pack2;
+	public class Test
+	{
+		public void Show()
+		{
+			System.out.println("Pollob");
+		}
+	}
+
+
+	Use :-
+	------
+	import pack1.pack2.Test;
+	class Main
+	{
+		public static void main(String ar[])
+		{
+			Test obj=new Test();
+			obj.Show();
+		}
+	}

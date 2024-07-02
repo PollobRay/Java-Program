@@ -1,0 +1,24 @@
+					Concept of equal() & equalsIgnoreCase()
+				>>---------------------------------------------<<
+	
+				The methods work by Boolean value
+	equal() :
+	--------
+		It's cheeck two string and return boolean value.
+		If two string is same & same case, its return true value.
+
+		ex:
+		--
+		Hello.equal("Hello"); // true
+		Hello.equal("hello"); // false 
+
+
+	equalsIgnoreCase():
+	-------------------
+		It's cheeck two string and return boolean value.
+		If two string is same & String are other case, It's return true value.
+
+		ex:
+		----
+		Hello.equalsIgnoreCase("hello"); // true
+		

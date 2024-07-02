@@ -1,0 +1,10 @@
+
+								Collection
+							>>-------------<<
+			java 1.2 add  Collection API
+			java 1.3 add Generics
+			java 1.7 add Diamond Operator '<>'
+			
+			
+			Collection Doesn't work with Index NUmber.
+			When we not specify Generics type then bydefault it be Object.

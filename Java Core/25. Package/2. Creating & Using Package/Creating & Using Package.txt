@@ -1,0 +1,46 @@
+						Steps of Creating Package
+					>>-----------------------------<<
+			1. Package Pack1	 // First Line. Here, Pack1 the name of Package name
+			2. Public class ClassA 		// ClassA the public class name
+			3. Save File ClassA.java 	// save file Public class .java
+			4. Create Folder & Save it Pack1 	// save it to give package name
+			5. Compile ClassA.java
+							|
+							|--> ClassA --> ClassA.class
+							|--> ClassB --> ClassB.class
+							|--> ClassC --> ClassC.class
+
+
+			note: How class is in a program, How class will Create
+
+
+	Create :-
+	----------
+	package Pack1;
+	public class DispA
+	{
+		public void DispA()
+		{
+			System.out.println("Pollob");
+		}
+	}
+
+
+	New :-
+	--------
+	i) We Create a Folder Pack1
+	ii) Save File ClassA.java
+
+	Use :-
+	------
+	import Pack1.ClassA;
+	class Test
+	{
+		public static void main(String arg[])
+		{
+			ClassA obj=new ClassA();
+			obj.Disp();
+		}
+	}
+							
+		

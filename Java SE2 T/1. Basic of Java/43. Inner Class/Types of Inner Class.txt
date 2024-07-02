@@ -1,0 +1,13 @@
+
+									Types of Inner Class
+								>>-------------------------<<
+			1. Member
+			2. static
+			3. Anonymous
+			4. Lambda
+			
+			
+							Create object of member Inner class
+							---------------------------------------
+							
+						

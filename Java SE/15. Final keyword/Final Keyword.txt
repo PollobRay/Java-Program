@@ -1,0 +1,30 @@
+
+							Final keyword
+						>>-----------------<<
+
+					*	Final instance variale
+					*	Final static variable
+					*	Final local variable
+					*	Final class
+					*	Final methods
+
+
+
+								 ( 1 )
+						Final Instance variable
+						>>/----------------\<<
+
+			* A java variable can be declared using the keyword 'final'. then the
+				final variable can be assigned only once.
+			* A variable that is decalre as final and initialized is called a blank final variable.
+				A black final variable forces either the constructor to initialize it or initialion block
+				to do this.
+			* We can assigned final variable in Three way,
+							1.	In declared line.
+							2.	In constructor.
+							3.	In initialized block. 
+
+
+
+								( 2 )
+						Final static variable

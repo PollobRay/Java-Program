@@ -1,0 +1,41 @@
+             Data Type :
+1. Primitive
+
+	i) Numeric
+		(a) Integer
+		(b) Float point
+
+	ii) Non-Numeric
+		(a) Character
+		(b) Boolean
+
+2. Non-Primitive
+
+	i)	class
+	ii)	object
+	iii)	array
+	iv)	
+
+
+
+
+
+
+Integer :
+---------
+i)	Byte - 1byte
+ii)	Sort - 2byte
+iii)	Int - 4byte
+iv)	Long - 8byte
+
+
+floating point :
+---------------
+i) float - 4Byte
+ii) double - 8Byte
+
+
+Non-numeric :
+------------
+i) character - 2byte
+ii) Boolean - 1bit (true/ false)

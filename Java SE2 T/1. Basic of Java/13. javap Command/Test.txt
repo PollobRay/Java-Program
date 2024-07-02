@@ -1,0 +1,7 @@
+
+'javap' command used to get structured of any class from   .class  file
+
+EX:-
+	javap Test
+	
+	javap java.lang.Object

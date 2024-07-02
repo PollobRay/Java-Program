@@ -1,0 +1,22 @@
+
+						Copy Object
+					>----------------<
+		1. Shallow Copy:-
+		-----------------
+						A obj=new A();
+						A obj1=obj;
+						
+		2. Deep Copy:-
+		---------------
+						A obj=new A();
+						obj.i=5;
+						obj.j=10;
+						
+						A obj1=new A();
+						obj1.i=obj.i;
+						obj1.j=obj.j;
+				
+		3. Cloning:-
+		-------------
+		
+					It combination od Shallow copy and Deep Copy.

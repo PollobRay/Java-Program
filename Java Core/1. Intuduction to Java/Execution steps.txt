@@ -1,0 +1,2 @@
+.java    ----> [compiler] ---->   .class (byte code)
+.class   ----> [Interpeter] -->   output

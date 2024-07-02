@@ -1,0 +1,9 @@
+
+												Map.Entry Interface
+											>>-----------------------<<
+		
+		Entry is Nested interface of Map.
+		It is Static interface.
+		
+		Map interface has a method is called  entrySet().
+				it return set of entry(key,value)
